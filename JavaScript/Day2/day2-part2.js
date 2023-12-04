@@ -6,7 +6,7 @@ const __dirname = path.dirname(__filename);
 
 const fileName = path.join(__dirname, 'day1TestData.data');
 
-const input = TextInputReader(path.join(__dirname, 'day2TestData.data'));
+const input = TextInputReader(fileName);
 
 let powers = [];
 let answer = 0

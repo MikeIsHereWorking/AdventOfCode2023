@@ -6,7 +6,7 @@ const __dirname = path.dirname(__filename);
 
 const fileName = path.join(__dirname, 'day1TestData.data');
 
-const p = TextInputReader(path.join(__dirname, 'day1TestData.data'));
+const p = TextInputReader(fileName);
 let answer = 0;
 
 function convertTextToNumber(line) {
