@@ -20,7 +20,6 @@ let stepCounter = 0;
 let paths = Object.keys(travelMap).filter(a => a.endsWith('A'));
 let pathSteps = paths.map(x => 0);
 while (true) {
-    //console.log(paths)
     let index = steps[(stepCounter) % steps.length] === 'R' ? 1 : 0;
 
     paths.forEach((p, i) => {
