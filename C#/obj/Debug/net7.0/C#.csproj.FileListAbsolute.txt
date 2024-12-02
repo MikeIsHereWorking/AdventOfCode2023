@@ -1,0 +1,15 @@
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Transfer\PluralSight\AdventOfCode\C#\bin\Debug\net7.0\C#.exe
+C:\Transfer\PluralSight\AdventOfCode\C#\bin\Debug\net7.0\C#.deps.json
+C:\Transfer\PluralSight\AdventOfCode\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Transfer\PluralSight\AdventOfCode\C#\bin\Debug\net7.0\C#.dll
+C:\Transfer\PluralSight\AdventOfCode\C#\bin\Debug\net7.0\C#.pdb
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.dll
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.pdb
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Transfer\PluralSight\AdventOfCode\C#\obj\Debug\net7.0\ref\C#.dll
